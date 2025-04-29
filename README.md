@@ -1,2 +1,2 @@
 # aset-TAS2-
-hasil aset tugas akhir di semester 2
+This resository contains my final project for the Animation course.The project showcases a assets.
